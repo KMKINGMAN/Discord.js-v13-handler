@@ -23,7 +23,7 @@ By using this project, you can shorten the time and facilitate many things for y
 ## Links
 
 *   [Repl.it](https://repl.it/github/KMKINGMAN/Discord.js-v13-handler)
-*   [Discord](https://discord.gg/kingmandev)
+*   [Telegram](https://t.me/kingman4hack)
 *   [Github](https://github.com/KMKINGMAN/Discord.js-v13-handler)
 *   [Instgram](https://instgram.com/kingman4hack)
 
